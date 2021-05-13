@@ -4,4 +4,5 @@
     <dimen name="layout_margin">16dp</dimen>
     <dimen name="text_size">20sp</dimen>
     <dimen name="padding">16dp</dimen>
+    <dimen name="bio_line_space">1.2</dimen>
 </resources>
